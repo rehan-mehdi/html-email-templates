@@ -1,0 +1,664 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+    <head>
+        <!--[if gte mso 9]>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:AllowPNG />
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="x-ua-compatible" content="IE=edge">
+        <meta name="x-apple-disable-message-reformatting">
+        <title></title>
+        <style type="text/css" data-premailer="ignore">
+            /* What it does: Remove spaces around the email design added by some email clients. */
+            /* Beware: It can remove the padding / Margin and add a background color to the compose a reply window. */
+            html, body {
+            Margin: 0 auto !important;
+            padding: 0 !important;
+            width: 100% !important;
+            height: 100% !important;
+            }
+            /* What it does: Stops email clients resizing small text. */
+            * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            }
+            /* What it does: Forces Outlook.com to display emails full width. */
+            .ExternalClass {
+            width: 100%;
+            }
+            /* What is does: Centers email on Android 4.4 */
+            div[style*="Margin: 16px 0"] {
+            Margin:0 !important;
+            }
+            /* What it does: Stops Outlook from adding extra spacing to tables. */
+            table,
+            th {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+            }
+            /* What it does: Fixes Outlook.com line height. */
+            .ExternalClass,
+            .ExternalClass * {
+            line-height: 100% !important;
+            }
+            /* What it does: Fixes Outlook.com line height. */
+            .ExternalClass * {
+            line-height: 100% !important;
+            }
+            /* What it does: Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. Applies table-layout to the first 2 tables then removes for anything nested deeper. */
+            table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            border: none;
+            Margin: 0 auto;
+            direction: ltr;
+            }
+            div[style*="Margin: 16px 0"] {
+            Margin:0 !important;
+            }
+            /* What it does: Uses a better rendering method when resizing images in IE. */
+            img {
+            -ms-interpolation-mode:bicubic;
+            }
+            /* What it does: Overrides styles added when Yahoo's auto-senses a link. */
+            .yshortcuts a {
+            border-bottom: none !important;
+            }
+            /* What it does: Overrides blue, underlined link auto-detected by iOS Mail. */
+            /* Create a class for every link style needed; this template needs only one for the link in the footer. */
+            /* What it does: A work-around for email clients meddling in triggered links. */
+            *[x-apple-data-detectors],  /* iOS */
+            .x-gmail-data-detectors,    /* Gmail */
+            .x-gmail-data-detectors *,
+            .aBn {
+            border-bottom: none !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+            }
+            *[class="hide"] {
+            max-height:0; /* Gmail*/
+            display:none; /* Generic*/
+            mso-hide:all; /* Outlook clients*/
+            overflow:hidden; /* Generic */
+            } 
+            /* What it does: Overrides blue, underlined link auto-detected by Gmail. */
+            u   #body a {
+            color: inherit;
+            text-decoration: none;
+            font-size: inherit;
+            font-family: inherit;
+            font-weight: inherit;
+            line-height: inherit;
+            }
+            /* What it does: Prevents Gmail from displaying an download button on large, non-linked images. */
+            .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+            }
+            /* If the above doesn't work, add a .g-img class to any image in question. */
+            img.g-img   div {
+            display:none !important;
+            }
+            /* What it does: Prevents underlining the button text in Windows 10 */
+            a,
+            a:link,
+            a:visited {
+            color: #ffffff;
+            text-decoration: none !important;
+            }
+            @media only screen and (min-width:480px) {
+              .mj-column-per-100 {
+                width: 100% !important;
+                max-width: 100%;
+              }
+
+              .mj-column-per-50 {
+                width: 50% !important;
+                max-width: 50%;
+              }
+              .mj-column-per-63 {
+                width: 63% !important;
+                max-width: 63%;
+              }
+              .mj-column-per-37{
+                width: 37% !important;
+                max-width: 37%;
+              }
+              .mj-column-per-60{
+                width: 60% !important;
+                max-width: 60%;
+              }
+              .mj-column-per-31{
+                width: 31% !important;
+                max-width: 31%;
+              }
+            }
+            @media only screen and (max-width: 480px) {
+            table#canspamBar td {
+            font-size:14px !important;
+            }
+            table#canspamBar td a {
+            display:block !important;
+            margin-top:10px !important;
+            }
+            /* General Styles */
+            .full-wrap {width:100% !important; min-width:auto !important; }
+            .full-image-container {width: 100% !important; display: block !important; height:auto !important; max-width:100% !important; }
+            .view-browser-hidden {display:none !important;}
+            .auto-height { height: auto !important; padding: 0px !important;}
+
+            }
+        </style>
+    </head>
+    <body id="body" bgcolor="#FFFFFF" style="height:100% !important;margin:0 !important;padding:0 !important;width:100% !important;">
+         <center class="wrapper" style="background-color: #FFFFFF;width: 100%;table-layout: fixed;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%">
+            <div class="webkit" style="Margin: 0 auto;max-width: 600px">
+                <!--[if (gte mso 9)|(IE)]>
+                <table width="600" align="center" cellpadding="0" cellspacing="0" border="0" style="border:none;border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;">
+                <tr>
+                <td>
+                <![endif]-->
+                <table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%!important;max-width: 100%!important;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;border-collapse: collapse; mso-line-height-rule: exactly;line-height: 100% !important; margin: 0; padding: 0; background-color: #FFFFFF; background: #FFFFFF;" width="100%">
+                    <tbody>
+                        <tr align="center">
+                            <td align="center">
+                                <table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" class="full-wrap" role="presentation" style="width: 600px; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;background-color: #FFFFFF; background: #FFFFFF;" width="600">
+                                    <tbody>
+                                        <tr>
+                                            <td align="center" style="padding: 20px 20px 16px 20px">
+                                                <table width="100%" cellspacing="0" cellpadding="0" border="0" align="left" style="width:100%;">
+                                                    <tr>
+                                                        <div data-type="slot" data-key="content-area" data-allowed-blocks="" data-max-blocks="" data-lable="">
+                                                            <td align="left" data-editable="standard" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #B6B6C0; font-size: 10px; font-style: normal; line-height: 12px; font-weight: 400; font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                Are you up to date with HDAP?
+                                                            </td>
+                                                        </div>
+                                                        <div data-type="slot" data-key="content-area" data-allowed-blocks="" data-max-blocks="" data-lable="">
+                                                            <td align="right" class="view-browser-hidden" style="text-align: right;">
+                                                                <a href="{{View_Online}}" style="text-decoration: underline; color: #B6B6C0; font-weight: 400; font-family: Arial, Helvetica, sans-serif; line-height: 12px; font-size: 10px;">
+                                                                    <span style="color: #B6B6C0; text-decoration: underline;">View this email in your browser</span>
+                                                                </a>
+                                                            </td>
+                                                        </div>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center">
+                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%; border:2px solid #EEEEEE;" width="100%">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td align="center">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#F7F7F5" style="width: 100%; background-color: #F7F7F5; background: #F7F7F5" width="100%">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td align="center" valign="top" style="padding: 20px 0px 20px 20px;">
+                                                                                <table width="100%" cellspacing="0" cellpadding="0" border="0" align="left" style="width:100%;">
+                                                                                    <tr>
+                                                                                        <td align="left">
+                                                                                            <img align="absbottom" border="0" src="img/SIMENS.png" style="width: 125px; display: block; vertical-align:top; border:0; height:auto;" width="125" />
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td align="left" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 25px; font-style: normal; line-height: 25px; font-weight: 700; font-family: Arial, Helvetica, sans-serif; padding: 24px 0px 6px 0px;" valign="middle">
+                                                                                            CALIBRE SUPPORTS NOTES
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td align="left" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 13px; font-style: normal; line-height: 18px; font-weight: 400; font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                                            Your monthly newsletter with useful <strong>Calibre tips and tricks</strong>   
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </table>
+                                                                            </td>
+                                                                            <td align="center" valign="top" style="padding: 20px 20px 20px 0px;">
+                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="right">
+                                                                                                <img align="absbottom" border="0" src="img/logo-sign.png" style="width: 100px; display: block; vertical-align:middle; border:0; height:auto;" width="100" />
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="right" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 13px; font-style: normal; line-height: 12px; font-weight: 400; font-family: Arial, Helvetica, sans-serif;padding: 8px 0px 6px 0px;" valign="middle">
+                                                                                                <a href="{Unsubcribe}" target="_blank" style="text-decoration:underline;color: #000028;">
+                                                                                                    <span style="color: #000028; text-decoration: underline;">Subscribe</span>
+                                                                                                </a>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="right" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 14px; font-style: normal; line-height: 14px; font-weight: 700; font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                                                OCT 2023   
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding: 20px 10px 20px 10px;">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" bgcolor="#FFE270" style="width: 100%; background-color: #FFE270; background: #FFE270; border-radius: 6px;" >
+                                                                    <tr>
+                                                                        <td align="center" style="padding: 17px 20px 17px 20px;">
+                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                       <td align="left" width="56" valign="middle">
+                                                                                            <img align="middle" alt="" border="0" src="img/icon-mark.png" style="width: 56px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="56" />
+                                                                                        </td>
+                                                                                        <td align="left" style="font-size: 16px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 600; font-family: Arial, Helvetica, sans-serif; padding-left: 16px;" valign="middle">
+                                                                                            How do you speed up verification cycles at the early stages of chip integration?
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding: 10px 20px 10px 20px; ">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" >
+                                                                    <tr align="center">
+                                                                        <td style="direction: rtl; font-size: 0px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 12px 0px 12px;" align="center">
+                                                                            <div class="mj-column-per-37 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:rtl;display:inline-block;vertical-align:top;width:100%;">
+                                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation"  width="100%">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center" valign="middle">
+                                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                    <tr>
+                                                                                                        <td align="center" valign="middle" class="align-center">
+                                                                                                            <img align="absbottom" alt="" border="0" src="img/girl-1.png" style="width: 100px;vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="100">
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td align="center" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 14px; font-style: normal; line-height: 14px; font-weight: 700; font-family: Arial, Helvetica, sans-serif;padding: 13px 0px 4px 0px;" valign="middle">
+                                                                                                            Vina Adel
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td align="center" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 13px; font-style: normal; line-height: 13px; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-bottom: 16px;" valign="middle">
+                                                                                                            Applications Engineer  
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </div>
+                                                                            <div class="mj-column-per-63 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:rtl;display:inline-block;vertical-align:middle;width:100%;">
+                                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation"width="100%">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center" class="auto-height" valign="middle">
+                                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                    <tr>
+                                                                                                        <td class="align-center" align="left" style="font-size: 16px; line-height: 22px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400;font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                                                            With the increased design complexity and tight tape-out schedules, chip integration starts while the different blocks are still in development. Running signoff DRC could be an overkill with millions of violations between the incomplete blocks and the top level of the chip. Calibre offers many features that help speed up the verification process by focusing on the systematic violations and allowing grey box checking that runs the DRC only on the interface between the blocks. All these features are currently available in nmDRC Recon mode. 
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="center" valign="middle" style="padding: 20px 10px 10px 10px">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation"  width="100%">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                        <td align="center" valign="top">
+                                                                                            <table width="100%" cellspacing="0" cellpadding="0" border="0" align="left" style="width:100%;">
+                                                                                                <tr>
+                                                                                                    <td align="left" width="26" valign="middle">
+                                                                                                        <a href="https://resources.sw.siemens.com/en-US/fact-sheet-calibre-nmdrc-recon" target="_blank">
+                                                                                                            <img align="middle" alt="" border="0" src="img/icon-youtube.png" style="width: 26px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="26" />
+                                                                                                        </a>
+                                                                                                    </td>
+                                                                                                    <td align="left" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;" valign="middle">
+                                                                                                        <a href="https://resources.sw.siemens.com/en-US/fact-sheet-calibre-nmdrc-recon" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Explore nmDRC Recon</span></a>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </table>
+                                                                                        </td>
+                                                                                        <td align="center" valign="top">
+                                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 86%;">
+                                                                                                <tbody>
+                                                                                                    <tr>
+                                                                                                        <td align="right" width="30" valign="middle">
+                                                                                                            <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" target="_blank">
+                                                                                                                <img align="middle" alt="" border="0" src="img/icon-notebook.png" style="width: 17px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="17" />
+                                                                                                            </a>
+                                                                                                        </td>
+                                                                                                        <td align="right" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;" valign="middle">
+                                                                                                            <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">White paper: Calibre nmDRC Recon</span></a>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody>
+                                                                                            </table>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding: 20px 10px 20px 10px;">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" bgcolor="#FFE270" style="width: 100%; background-color: #FFE270; background: #FFE270; border-radius: 6px;" >
+                                                                    <tr>
+                                                                        <td align="center" style="padding: 17px 20px 17px 20px;">
+                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                <tbody>
+                                                                                    <tr>
+                                                                                       <td align="left" width="56" valign="middle">
+                                                                                            <img align="middle" alt="" border="0" src="img/icon-mark.png" style="width: 56px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="56" />
+                                                                                        </td>
+                                                                                        <td align="left" style="font-size: 16px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 600; font-family: Arial, Helvetica, sans-serif; padding-left: 16px;" valign="middle">
+                                                                                            Calibre DESIGNRev is the right tool for quick manual or sophisticated scripted edits.
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </tbody>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" style="padding: 10px 20px 10px 20px; ">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" >
+                                                                    <tr align="center">
+                                                                        <td style="direction: ltr; font-size: 0px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 12px;" align="center">
+                                                                            <div class="mj-column-per-37 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align: middle; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; " width="100%">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center" style=" mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle">
+                                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                    <tr>
+                                                                                                        <td align="center" style=" mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle" class="align-center">
+                                                                                                            <img align="absbottom" alt="" border="0" src="img/girl-2.png" style="width: 100px;vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="100">
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td align="center" data-editable="standard" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 14px; font-style: normal; line-height: 14px; font-weight: 700; font-family: Arial, Helvetica, sans-serif;padding: 13px 0px 4px 0px;" valign="middle">
+                                                                                                            Mari Ghukasyan
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                    <tr>
+                                                                                                        <td align="center" data-editable="standard" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-size: 13px; font-style: normal; line-height: 13px; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-bottom: 16px;" valign="middle">
+                                                                                                            Applications Engineer  
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </div>
+                                                                            <div class="mj-column-per-63 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align: middle; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center" class="auto-height" valign="middle">
+                                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                <tr>
+                                                                                                    <td class="align-center" align="left" style="font-size: 16px; line-height: 22px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400;font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                                                        You don’t always need your full layout design environment to edit your layouts! Have you explored editing your designs within Calibre itself for some quick corrective iterations? You'll be a lot more productive and efficient, as you will not need to load your technology files or be tied to design libraries for this either!
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td align="center" style="padding: 10px 10px 10px 10px">
+                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+                                                                                <tr>
+                                                                                    <td align="center" valign="top">
+                                                                                        <table width="100%" cellspacing="0" cellpadding="0" border="0" align="left" style="width:100%;">
+                                                                                            <tr>
+                                                                                                <td align="left" style="padding-bottom: 16px;" width="28" valign="middle">
+                                                                                                    <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" target="_blank">
+                                                                                                        <img align="middle" alt="" border="0" src="img/icon-youtube.png" style="width: 28px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="28" />
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                                <td align="left" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-left: 12px; padding-bottom: 16px;" valign="middle">
+                                                                                                    <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Increase your productivity using Calibre DESIGNrev</span></a>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                            <tr>
+                                                                                                <td align="left" width="26" valign="middle">
+                                                                                                    <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" target="_blank">
+                                                                                                        <img align="middle" alt="" border="0" src="img/icon-brain.png" style="width: 26px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="26" />
+                                                                                                    </a>
+                                                                                                </td>
+                                                                                                <td align="left" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;" valign="middle">
+                                                                                                    <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Extract Layout Information Using Calibre DESIGNrev</span></a>
+                                                                                                </td>
+                                                                                            </tr>
+                                                                                        </table>
+                                                                                    </td>
+                                                                                    <td align="center" valign="top">
+                                                                                        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;">
+                                                                                            <tbody>
+                                                                                                <tr>
+                                                                                                    <td align="right" style="padding-bottom: 16px;" width="28" valign="middle">
+                                                                                                        <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" target="_blank">
+                                                                                                            <img align="middle" alt="" border="0" src="img/call-icon.png" style="width: 28px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="28" />
+                                                                                                        </a>
+                                                                                                    </td>
+                                                                                                    <td align="right" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;padding-bottom: 16px;" valign="middle">
+                                                                                                        <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Level up your game with DESIGNrev and RVE</span></a>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                                <tr>
+                                                                                                    <td align="right" width="26" valign="middle">
+                                                                                                        <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" target="_blank">
+                                                                                                            <img align="middle" alt="" border="0" src="img/icon-brain.png" style="width: 26px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="26" />
+                                                                                                        </a>
+                                                                                                    </td>
+                                                                                                    <td align="right" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;" valign="middle">
+                                                                                                        <a href="https://eda.sw.siemens.com/en-US/ic/calibre-design/circuit-verification/early-verification/" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Manipulate Layout Files Using Calibre DESIGNrev</span></a>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </tbody>
+                                                                                        </table>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </table>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#F7F7F5" style="width: 100%; background-color: #F7F7F5; background: #F7F7F5" width="100%">
+                                                                    <tr>
+                                                                        <td style="direction: ltr; font-size: 0px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 20px 30px;" align="center">
+                                                                            <div class="mj-column-per-60 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%; padding-right: 40px;">
+                                                                                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align: middle; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; " width="100%">
+                                                                                    <tbody>
+                                                                                        <tr>
+                                                                                            <td align="center" valign="middle">
+                                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                    <tr>
+                                                                                                        <td align="right" style=" mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="26" valign="middle">
+                                                                                                            <img align="middle" alt="" border="0" src="img/icon-mailbox.png" style="width: 26px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="26" />
+                                                                                                        </td>
+                                                                                                        <td align="right" style="font-size: 14px; line-height: 20px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 700; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;" valign="middle">
+                                                                                                            Email <a href="mailto:calibresupport@siemens.com" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">calibresupport@siemens.com</span></a> for 1:1 support and suggestions.
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </table>
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                        <tr>
+                                                                                            <td align="center" style=" mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; padding-top: 20px; padding-bottom: 20px" valign="middle" class="align-center">
+                                                                                                <img align="absbottom" alt="" border="0" src="img/group-vector.png" style="width: 200px;vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="200">
+                                                                                            </td>
+                                                                                        </tr>
+                                                                                    </tbody>
+                                                                                </table>
+                                                                            </div>
+                                                                            <div class="mj-column-per-31 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;">
+                                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                    <tr>
+                                                                                        <td align="center">
+                                                                                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#FFFFFF" style="vertical-align: middle; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border: 4px solid #EEEEEE; background-color: #FFFFFF; background: #FFFFFF" width="100%">
+                                                                                                <tbody>
+                                                                                                    <tr>
+                                                                                                        <td align="center" valign="middle">
+                                                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                                <tr>
+                                                                                                                    <td align="right" style="font-size: 13px; line-height: 15px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #4D525A; font-style: normal; text-align: left; font-weight: 700; font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                                                                        <img align="middle" alt="" border="0" src="img/icon-uptrend.png" style="width: 28px;vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="28" /><span style="padding-left: 10px;">Latest release</span>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="right" style="font-size: 13px; line-height: 15px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #4D525A; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-top: 10px; padding-bottom: 20px;" valign="middle">Download:<br/> <a href="https://support.sw.siemens.com/en-US/product/852852053/download/202308030" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Calibre 2023.3_38</span></a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="right" style="font-size: 13px; line-height: 15px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #4D525A; font-style: normal; text-align: left; font-weight: 700; font-family: Arial, Helvetica, sans-serif;" valign="middle">
+                                                                                                                        <img align="middle" alt="" border="0" src="img/icon-uptrend.png" style="width: 28px;vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="28" /><span style="padding-left: 10px;">Next webinar</span>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="right" style="font-size: 13px; line-height: 15px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #4D525A; font-style: normal; text-align: left; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-top: 10px;" valign="middle">Calibre PEX Series: Setup and Debugging of Multi-Corner Runs made Easy
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                                <tr>
+                                                                                                                    <td align="left" style="padding-top: 15px;">
+                                                                                                                        <a href="https://event.on24.com/wcc/r/4345439/C1D3519E659D4E87DBA72E26C7B5C97F?partnerref=SupportCenter" style="background: #FFE270; text-decoration: underline !important; padding: 8px 20px; color: #000028; display:inline-block; mso-padding-alt:0;text-underline-color:#000028; border: 3px solid #000028; font-size: 15px;font-weight: 400; font-family: Arial, Helvetica, sans-serif;">
+                                                                                                                          <!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%;mso-text-raise:30pt">&nbsp;</i><![endif]-->
+                                                                                                                          <span style="mso-text-raise:15pt;">Register Now</span>
+                                                                                                                          <!--[if mso]><i style="letter-spacing: 25px;mso-font-width:-100%">&nbsp;</i><![endif]-->
+                                                                                                                        </a>
+                                                                                                                    </td>
+                                                                                                                </tr>
+                                                                                                            </table>
+                                                                                                        </td>
+                                                                                                    </tr>
+                                                                                                </tbody>
+                                                                                            </table>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                        <tr>
+                                                                                        <td align="center" style="padding-top: 16px;">
+                                                                                            <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 100%;" width="100%">
+                                                                                                <tr>
+                                                                                                    <td align="right" width="26" valign="middle">
+                                                                                                        <img align="middle" alt="" border="0" src="img/icon-support.png" style="width: 26px; display: block; vertical-align:middle; border:0; height:auto; padding: 0px; margin: 0px;" width="26" />
+                                                                                                    </td>
+                                                                                                    <td align="right" style="font-size: 13px; line-height: 15px; mso-line-height-rule: exactly; -ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #000028; font-style: normal; text-align: left; font-weight: 700; font-family: Arial, Helvetica, sans-serif; padding-left: 12px;" valign="middle"><a href="https://support.sw.siemens.com/en-US/product/852852053/knowledge-base/MG619632" style="color:#000000; text-decoration: underline !important;" target="_blank"><span style="color:#000000; text-decoration: underline !important;">Visit Support Center</span></a>
+                                                                                                    </td>
+                                                                                                </tr>
+                                                                                            </table>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </table>
+                                                                            </div>
+                                                                        </td>
+                                                                    </tr>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td align="center" valign="middle">
+                                                                <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" bgcolor="#000028" style="width: 100%; background-color: #000028; background: #000028" width="100%">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td align="center" valign="middle" style="padding: 20px 20px 20px 20px;">
+                                                                                <table width="100%" cellspacing="0" cellpadding="0" border="0" align="left" style="width:100%;">
+                                                                                    <tr>
+                                                                                        <td align="left" style="text-align: left;padding:10px 0;font-size:22px">
+                                                                                            <a style="width:20px;display:inline-block;" href="#" target="_blank" ><img alt="facebook" style="width:20px;" width="20" src="img/icon-facebook.png" >
+                                                                                            </a>&nbsp;&nbsp;
+                                                                                            <a style="width:20px;display:inline-block;" href="#"  target="_blank" ><img alt="twitter" style="width:20px;" width="20" src="img/icon-twitter.png" >
+                                                                                            </a>&nbsp;&nbsp;
+                                                                                            <a style="width:20px;display:inline-block;" href="#"  target="_blank" ><img alt="linkedin" style="width:20px;" width="20" src="img/icon-linkedin.png" >
+                                                                                            </a>&nbsp;&nbsp;
+                                                                                            <a style="width:20px;display:inline-block;" href="#"  target="_blank" ><img alt="instagram" style="width:20px;" width="20" src="img/icon-instagram.png" >
+                                                                                            </a>&nbsp;&nbsp;
+                                                                                            <a style="width:26px;display:inline-block;" href="#"  target="_blank" ><img alt="youtube" style="width:26px;" width="26" src="img/icon-youtbe.png" >
+                                                                                            </a>
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                        <td align="left" data-editable="standard" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%; color: #e9e9e9; font-size: 13px; font-style: normal; line-height: 19px; font-weight: 400; font-family: Arial, Helvetica, sans-serif; padding-top: 10px; padding-bottom: 20px;" valign="middle">
+                                                                                            This email was sent to <a href="mailto:" style="color:#e9e9e9; text-decoration: underline !important;" target="_blank"><span style="color:#e9e9e9; text-decoration: underline !important;">rosanne.de-vries@siemens.com</span></a>.
+                                                                                            <br/><br/>
+                                                                                            <strong>Siemens Digital Industries Software</strong> <br/>
+                                                                                            5800 Granite Parkway, Suite 600 Plano, TX 75024
+                                                                                            <br/><br/>
+                                                                                           <a href="#" style="color:#e9e9e9; text-decoration: underline !important;" target="_blank"><span style="color:#e9e9e9; text-decoration: underline !important;">Contact Us</span></a> | <a href="#" style="color:#e9e9e9; text-decoration: underline !important;" target="_blank"><span style="color:#e9e9e9; text-decoration: underline !important;">Our Privacy Policy</span></a> | <a href="#" style="color:#e9e9e9; text-decoration: underline !important;" target="_blank"><span style="color:#e9e9e9; text-decoration: underline !important;">Update your preferences</span></a> or <a href="#" style="color:#e9e9e9; text-decoration: underline !important;" target="_blank"><span style="color:#e9e9e9; text-decoration: underline !important;">unsubscribe</span></a>. 
+                                                                                            <br/><br/>
+                                                                                            © 2023 Siemens Digital Industries Software. Siemens and the Siemens logo are registered trademarks of Siemens AG. All other logos, trademarks, registered trademarks or service marks used herein are the property of their respective holders.
+                                                                                        </td>
+                                                                                    </tr>
+                                                                                </table>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td align="center" style=" mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" valign="middle">
+                                <img align="absbottom" border="0" src="https://mcusercontent.com/595b07d58588f6b66963451f9/images/26f9984f-7173-2605-9252-6b0be4858c2a.gif" style="width: 445px; display: block; vertical-align:middle; border:0; height:auto;" width="445">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--[if (gte mso 9)|(IE)]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+            </div>
+        </center>
+    </body>
+    </html>
